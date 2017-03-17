@@ -1,7 +1,6 @@
 # Arduino-ServoRamp
 
-
-A scetch to ramp up and down 2 servos.
+2 servos with independent ramped accerlation 0 - 180.
 control using debounced button, non interupt.
 
 
